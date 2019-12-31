@@ -1,0 +1,7 @@
+void main()
+{
+    inta,c;
+    scanf("%d",a);
+    c=printf("%d",a);
+    printf("\n%d",c);
+}

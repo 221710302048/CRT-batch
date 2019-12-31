@@ -1,0 +1,6 @@
+void main()
+{
+    inta,c,b;
+    b=scanf("%d%d",&a,&c);
+    printf("\n%d",b);
+}
