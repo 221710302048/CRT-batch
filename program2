@@ -1,0 +1,6 @@
+void main()
+{
+    inta=225,c;
+    c=printf("%d",a);
+    printf("\n%d",c);
+}
